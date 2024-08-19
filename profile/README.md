@@ -11,7 +11,7 @@
 | AntSK    | https://github.com/AIDotNet/AntSK     | 基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体，支持本地离线AI大模型。可以不联网离线运行。支持aspire观测应用数据 |
 | FastWiki | https://github.com/AIDotNet/fast-wiki | 基于.NET8+React+LobeUI实现的企业级智能客服知识库             |
 | Thor(雷神托尔) | https://github.com/AIDotNet/Thor | Thor提供了大部分的AI模型兼容OpenAI的接口格式，并且将所有模型的实现单独成类库打包成SDK使用，可快速使用入门，也可以使用Thor的服务部署成独立的AI中转服务， 在Thor中提供了基本的用户管理和权限管理，并且支持多模型转换，以便提供给服务OpenAI的API风格。 |
-| GraphRag.Net | https://github.com/AIDotNet/GraphRag.Net | 这是一个参考GraphRag的dotnet简易实现 |
+| GraphRag.Net | https://github.com/AIDotNet/GraphRag.Net | 参考GraphRag使用 Semantic Kernel 来实现的dotnet版本，可以使用NuGet开箱即用集成到项目中 |
 | ThorChat | https://github.com/AIDotNet/ThorChat | 这个是移植lobechat，将next替换成纯静态项目，后台使用.NET 8提供WebApi支持 |
 
 ## 成员介绍
