@@ -42,7 +42,7 @@
 - .NET and Angular Developer, Microsoft MVP
 
 <img height="85px" width="85px" src="https://avatars.githubusercontent.com/u/28941816?v=4" />
-[[MrChuJiu](https://github.com/MrChuJiu](https://github.com/anjoy8))
+[anjoy8](https://github.com/MrChuJiu](https://github.com/anjoy8)
 
 - 张安忠，十年软件开发经验，国内.NET技术布道者，连续五年年微软MVP最有价值专家，《ASP.NET Core 5.0开发入门与实战》联合作者。BCVP开发者社区发起人，专注于企业级应用框架的研发、拓展和使用，为.NETCORE能够落地一套完整的微服务项目而不断奋斗。
 
