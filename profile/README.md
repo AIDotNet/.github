@@ -24,7 +24,7 @@
 <img height="85px" width="85px" src="https://avatars.githubusercontent.com/u/26290929?v=4" />
 [xuzeyu91](https://github.com/xuzeyu91)
 
--  Microsoft AI Platform MVP, Good at. net microservice architecture system dapr k8s docker aigc, etc
+-  Microsoft AI Platform MVP, Huawei Cloud Developer Experts, Good at. net microservice architecture system dapr k8s docker aigc, etc
 
 <img height="85px" width="85px" src="https://avatars.githubusercontent.com/u/8108685?v=4" /> 
 [longdream](https://github.com/longdream)
