@@ -13,6 +13,7 @@
 | Thor(雷神托尔) | https://github.com/AIDotNet/Thor | Thor提供了大部分的AI模型兼容OpenAI的接口格式，并且将所有模型的实现单独成类库打包成SDK使用，可快速使用入门，也可以使用Thor的服务部署成独立的AI中转服务， 在Thor中提供了基本的用户管理和权限管理，并且支持多模型转换，以便提供给服务OpenAI的API风格。 |
 | GraphRag.Net | https://github.com/AIDotNet/GraphRag.Net | 参考GraphRag使用 Semantic Kernel 来实现的dotnet版本，可以使用NuGet开箱即用集成到项目中 |
 | ThorChat | https://github.com/AIDotNet/ThorChat | 这个是移植lobechat，将next替换成纯静态项目，后台使用.NET 8提供WebApi支持 |
+| AutoGpt | https://github.com/AIDotNet/AutoGpt | AutoGpt 智能推理SDK，利用AI本身的能力进行多次对话推理，回复效果更加理想，更智能。 |
 
 ## 成员介绍
 
