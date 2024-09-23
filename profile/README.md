@@ -18,35 +18,42 @@
 ## 成员介绍
 
 <img height="85px" width="85px" src="https://avatars.githubusercontent.com/u/61819790?v=4" />
+
 [Token](https://github.com/239573049)
 
 - Just for better technology, Microsoft MVP
 
 <img height="85px" width="85px" src="https://avatars.githubusercontent.com/u/26290929?v=4" />
+
 [xuzeyu91](https://github.com/xuzeyu91)
 
 -  Microsoft AI Platform MVP, Huawei Cloud Developer Experts, Good at. net microservice architecture system dapr k8s docker aigc, etc
 
 <img height="85px" width="85px" src="https://avatars.githubusercontent.com/u/8108685?v=4" /> 
+
 [longdream](https://github.com/longdream)
 
 - 无
 
 <img height="85px" width="85px" src="https://avatars.githubusercontent.com/u/2189761?v=4" /> 
+
 [whuanle](https://github.com/whuanle)
 
 - Interesting blogger, little programmer, amateur photographer, mainly studying microservice architecture, kubernetes, istio, Devops, etc., currently studying machine learning, mainly languages are C#, Go, Python. I like reading books, blogging, photography, sports and scenery.
 
 <img height="85px" width="85px" src="https://avatars.githubusercontent.com/u/31230864?v=4" />
+
 [MrChuJiu](https://github.com/MrChuJiu)
 
 - .NET and Angular Developer, Microsoft MVP
 
 <img height="85px" width="85px" src="https://avatars.githubusercontent.com/u/28941816?v=4" />
-[anjoy8](https://github.com/MrChuJiu](https://github.com/anjoy8)
+
+[anjoy8](https://github.com/anjoy8)
 
 - 张安忠，十年软件开发经验，国内.NET技术布道者，连续五年年微软MVP最有价值专家，《ASP.NET Core 5.0开发入门与实战》联合作者。BCVP开发者社区发起人，专注于企业级应用框架的研发、拓展和使用，为.NETCORE能够落地一套完整的微服务项目而不断奋斗。
 
 <img height="85px" width="85px" src="https://avatars.githubusercontent.com/u/49057777?v=4" />
+
 [snake-L](https://github.com/snake-L)
 
