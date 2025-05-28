@@ -75,6 +75,7 @@ AIDotNet 汇聚了一群热爱 AI 和 .NET 技术的开发者，致力于共同�
 ## 🔗 联系我们
 
 - GitHub 组织：[AIDotNet](https://github.com/AIDotNet)
+- TokenAI：[TokenAI](https://token-ai.cn)
 - 交流讨论：通过 GitHub Issues 或 Discussions 参与技术讨论
 
 **共同构建 AI 与 .NET 的美好未来！**
