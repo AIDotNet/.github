@@ -1,4 +1,4 @@
-# 🚀 AIDotNet - 连接智能与未来
+# 🚀 AIDotNet - Bridging Intelligence and the Future
 
 <div align="center">
 
@@ -7,74 +7,74 @@
 [![Documentation](https://img.shields.io/badge/Docs-docs.token--ai.cn-blue)](https://docs.token-ai.cn)
 [![AntSK Demo](https://img.shields.io/badge/Demo-antsk.ai--dotnet.com-orange)](https://antsk.ai-dotnet.com)
 
-**汇聚AI与.NET技术的开源创新力量**
+**An Open Source Powerhouse Uniting AI and .NET Technologies**
 
-*构建智能、高效且易用的AI解决方案*
+*Building intelligent, efficient, and user-friendly AI solutions*
 
-[🌟 核心项目](#-核心项目) • [👥 团队成员](#-核心团队) • [🤝 加入我们](#-加入我们) • [📞 联系方式](#-联系我们)
+[🌟 Core Projects](#-core-projects) • [👥 Team Members](#-core-team) • [🤝 Join Us](#-join-us) • [📞 Contact](#-contact-us)
 
 </div>
 
 ---
 
-## 💡 我们的使命
+## 💡 Our Mission
 
-AIDotNet 是一群热爱DotNet的开源爱好者组成，为了让DotNet赋能AI，让AI轻松带入您的产品，我们成立了AIDotNet组织。我们致力于：
+AIDotNet is a group of open-source enthusiasts passionate about DotNet. We established AIDotNet to enable DotNet to empower AI and seamlessly integrate AI into your products. Our commitments include:
 
-- 🎯 **推动AI技术普及化** - 让AI技术更容易被开发者采用和集成
-- 🔧 **构建实用工具链** - 开发高质量、易用的AI开发工具和框架  
-- 🌐 **促进开源协作** - 大部分项目采用 Apache License 2.0 和 MIT License，支持自由使用和商业化
-- 📚 **知识分享传播** - 通过文档、教程和社区交流推广最佳实践
+- 🎯 **Promoting AI Technology Adoption** - Making AI technologies easier for developers to adopt and integrate
+- 🔧 **Building Practical Toolchains** - Developing high-quality, user-friendly AI development tools and frameworks
+- 🌐 **Encouraging Open Source Collaboration** - Most projects use Apache License 2.0 and MIT License, supporting free use and commercialization
+- 📚 **Knowledge Sharing and Dissemination** - Promoting best practices through documentation, tutorials, and community engagement
 
-## 🌟 核心项目
+## 🌟 Core Projects
 
-> 💫 **明星项目** - 获得社区广泛认可的核心产品
+> 💫 **Featured Projects** - Core products widely recognized by the community
 
-### 🏆 重点推荐
+### 🏆 Highlighted Recommendations
 
-| 项目 | Stars | 技术栈 | 特色功能 |
-|------|-------|--------|----------|
-| [**OpenDeepWiki**](https://github.com/AIDotNet/OpenDeepWiki) | ![Stars](https://img.shields.io/github/stars/AIDotNet/OpenDeepWiki) | .NET 9 + TypeScript + Semantic Kernel | 📚 开源知识管理平台<br/>🔧 模块化设计，易扩展<br/>🎨 现代化UI界面 |
-| [**AntSK**](https://github.com/AIDotNet/AntSK) | ![Stars](https://img.shields.io/github/stars/AIDotNet/AntSK) | .NET 8 + AntBlazor + Semantic Kernel | 🔥 本地离线AI大模型支持<br/>📊 集成Aspire可观测性<br/>🧠 全功能AI知识库/智能体 |
-| [**Thor**](https://github.com/AIDotNet/Thor) | ![Stars](https://img.shields.io/github/stars/AIDotNet/Thor) | .NET 8 + OpenAI Compatible | 🔌 统一AI模型接口中间件<br/>⚡ 兼容OpenAI格式<br/>🔑 内置用户权限管理 |
-| [**auto-prompt**](https://github.com/AIDotNet/auto-prompt) | ![Stars](https://img.shields.io/github/stars/AIDotNet/auto-prompt) | .NET + React | 🎯 AI提示词优化平台<br/>🧠 智能优化算法<br/>📊 可视化调试工具 |
+| Project | Stars | Tech Stack | Key Features |
+|---------|-------|------------|--------------|
+| [**OpenDeepWiki**](https://github.com/AIDotNet/OpenDeepWiki) | ![Stars](https://img.shields.io/github/stars/AIDotNet/OpenDeepWiki) | .NET 9 + TypeScript + Semantic Kernel | 📚 Open-source knowledge management platform<br/>🔧 Modular design, easy to extend<br/>🎨 Modern UI interface |
+| [**AntSK**](https://github.com/AIDotNet/AntSK) | ![Stars](https://img.shields.io/github/stars/AIDotNet/AntSK) | .NET 8 + AntBlazor + Semantic Kernel | 🔥 Local offline AI large model support<br/>📊 Integrated Aspire observability<br/>🧠 Full-featured AI knowledge base/agent |
+| [**Thor**](https://github.com/AIDotNet/Thor) | ![Stars](https://img.shields.io/github/stars/AIDotNet/Thor) | .NET 8 + OpenAI Compatible | 🔌 Unified AI model interface middleware<br/>⚡ Compatible with OpenAI format<br/>🔑 Built-in user permission management |
+| [**auto-prompt**](https://github.com/AIDotNet/auto-prompt) | ![Stars](https://img.shields.io/github/stars/AIDotNet/auto-prompt) | .NET + React | 🎯 AI prompt optimization platform<br/>🧠 Intelligent optimization algorithms<br/>📊 Visual debugging tools |
 
-### 🛠️ 专业工具
+### 🛠️ Professional Tools
 
-| 项目 | 描述 | 技术栈 |
-|------|------|--------|
-| [**koala-ai**](https://github.com/AIDotNet/koala-ai) | 🤖 企业级智能客服系统，支持知识库问答 | .NET 8 + React |
-| [**Text2Sql.Net**](https://github.com/AIDotNet/Text2Sql.Net) | 📝 自然语言转SQL工具 | .NET + Semantic Kernel |
-| [**GraphRag.Net**](https://github.com/AIDotNet/GraphRag.Net) | 🕸️ 基于Semantic Kernel的检索增强生成 | .NET + Semantic Kernel |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**koala-ai**](https://github.com/AIDotNet/koala-ai) | 🤖 Enterprise-level intelligent customer service system, supporting knowledge base Q&A | .NET 8 + React |
+| [**Text2Sql.Net**](https://github.com/AIDotNet/Text2Sql.Net) | 📝 Natural language to SQL tool | .NET + Semantic Kernel |
+| [**GraphRag.Net**](https://github.com/AIDotNet/GraphRag.Net) | 🕸️ Retrieval-augmented generation based on Semantic Kernel | .NET + Semantic Kernel |
 
-### 📦 开发组件
+### 📦 Development Components
 
-- **SemanticKernel.Samples** - Semantic Kernel最佳实践示例
-- **NuGet.Next** - 现代化的NuGet包管理平台
+- **SemanticKernel.Samples** - Best practice examples of Semantic Kernel
+- **NuGet.Next** - Modern NuGet package management platform
 
-## 🏗️ 技术架构
+## 🏗️ Technical Architecture
 
 ```mermaid
 graph TB
-    subgraph "前端层"
+    subgraph "Frontend Layer"
         A[AntBlazor UI] --> B[React Components]
         B --> C[TypeScript]
     end
     
-    subgraph "应用层"
-        D[AntSK 知识库] --> E[Thor API网关]
-        E --> F[AutoGpt 推理引擎]
+    subgraph "Application Layer"
+        D[AntSK Knowledge Base] --> E[Thor API Gateway]
+        E --> F[AutoGpt Inference Engine]
     end
     
-    subgraph "AI层"
-        G[Semantic Kernel] --> H[本地模型]
-        H --> I[云端模型]
-        G --> J[向量数据库]
+    subgraph "AI Layer"
+        G[Semantic Kernel] --> H[Local Model]
+        H --> I[Cloud Model]
+        G --> J[Vector Database]
     end
     
-    subgraph "数据层"
+    subgraph "Data Layer"
         K[PostgreSQL] --> L[SQLite]
-        L --> M[文件存储]
+        L --> M[File Storage]
     end
     
     A --> D
@@ -82,7 +82,7 @@ graph TB
     G --> K
 ```
 
-## 👥 核心团队
+## 👥 Core Team
 
 <table>
   <tr>
@@ -92,7 +92,7 @@ graph TB
   <br/><b>Token</b>
   </a>
   <br/><sub>Microsoft MVP</sub>
-  <br/><sub>技术探索者</sub>
+  <br/><sub>Technology Explorer</sub>
   </td>
   <td align="center" width="150">
   <a href="https://github.com/xuzeyu91">
@@ -100,134 +100,133 @@ graph TB
   <br/><b>xuzeyu91</b>
   </a>
   <br/><sub>Microsoft AI Platform MVP</sub>
-  <br/><sub>华为云开发者专家</sub>
+  <br/><sub>Huawei Cloud Developer Expert</sub>
   </td>
   <td align="center" width="150">
   <a href="https://github.com/whuanle">
   <img src="https://avatars.githubusercontent.com/u/2189761?v=4" width="80" style="border-radius:50%"/>
   <br/><b>whuanle</b>
   </a>
-  <br/><sub>技术博主</sub>
-  <br/><sub>微服务架构专家</sub>
+  <br/><sub>Technical Blogger</sub>
+  <br/><sub>Microservices Architecture Expert</sub>
   </td>
   <td align="center" width="150">
   <a href="https://github.com/anjoy8">
   <img src="https://avatars.githubusercontent.com/u/28941816?v=4" width="80" style="border-radius:50%"/>
-  <br/><b>张安忠</b>
+  <br/><b>Zhang Anzhong</b>
   </a>
-  <br/><sub>连续五年 Microsoft MVP</sub>
-  <br/><sub>.NET 技术布道者</sub>
+  <br/><sub>Five-time Microsoft MVP</sub>
+  <br/><sub>.NET Technology Evangelist</sub>
   </td>
   </tr>
 </table>
 
 <details>
-<summary>查看更多团队成员 👥</summary>
+<summary>See More Team Members 👥</summary>
 
-| 成员 | 专业领域 | 贡献亮点 |
-|------|----------|----------|
-| [**MrChuJiu**](https://github.com/MrChuJiu) | .NET + Angular | Microsoft MVP，全栈开发专家 |
-| [**longdream**](https://github.com/longdream) | 技术架构 | 技术梦想家，创新推动者 |
-| [**snake-L**](https://github.com/snake-L) | 开源贡献 | 活跃的技术贡献者 |
+| Member | Expertise | Contribution Highlights |
+|--------|-----------|-------------------------|
+| [**MrChuJiu**](https://github.com/MrChuJiu) | .NET + Angular | Microsoft MVP, Full-stack Development Expert |
+| [**longdream**](https://github.com/longdream) | Technical Architecture | Technology Dreamer, Innovation Promoter |
+| [**snake-L**](https://github.com/snake-L) | Open Source Contribution | Active Technical Contributor |
 
 </details>
 
-
-## 🤝 加入我们
+## 🤝 Join Us
 
 <div align="center">
 
-### 🌈 多种参与方式，总有一款适合你
+### 🌈 Diverse Ways to Participate, There's One for You
 
 </div>
 
 ```mermaid
 graph LR
-    A[开发者] --> B[代码贡献]
-    A --> C[测试反馈]
-    A --> D[文档完善]
-    A --> E[社区推广]
+    A[Developer] --> B[Code Contribution]
+    A --> C[Test Feedback]
+    A --> D[Documentation Improvement]
+    A --> E[Community Promotion]
     
-    B --> F[提交PR]
-    B --> G[修复Bug]
-    B --> H[新功能开发]
+    B --> F[Submit PR]
+    B --> G[Fix Bugs]
+    B --> H[Develop New Features]
     
-    C --> I[使用项目]
-    C --> J[提交Issue]
-    C --> K[性能测试]
+    C --> I[Use Project]
+    C --> J[Submit Issue]
+    C --> K[Performance Testing]
     
-    D --> L[编写教程]
-    D --> M[翻译文档]
-    D --> N[API文档]
+    D --> L[Write Tutorials]
+    D --> M[Translate Documentation]
+    D --> N[API Documentation]
     
-    E --> O[技术分享]
-    E --> P[博客推广]
-    E --> Q[社区活动]
+    E --> O[Technical Sharing]
+    E --> P[Blog Promotion]
+    E --> Q[Community Activities]
 ```
 
-### 🎯 贡献指南
+### 🎯 Contribution Guidelines
 
-| 贡献类型 | 适合人群 | 如何开始 |
-|----------|----------|----------|
-| 🔧 **代码贡献** | 有一定开发经验 | Fork项目 → 开发功能 → 提交PR |
-| 🧪 **测试反馈** | 产品使用者 | 使用项目 → 发现问题 → 提交Issue |
-| 📝 **文档完善** | 技术写作爱好者 | 改进文档 → 编写教程 → 提交PR |
-| 📢 **社区推广** | 技术布道者 | 技术分享 → 博客推广 → 参与活动 |
+| Contribution Type | Suitable For | How to Start |
+|-------------------|--------------|--------------|
+| 🔧 **Code Contribution** | Some development experience | Fork project → Develop features → Submit PR |
+| 🧪 **Test Feedback** | Product users | Use project → Identify issues → Submit Issue |
+| 📝 **Documentation Improvement** | Technical writing enthusiasts | Improve documentation → Write tutorials → Submit PR |
+| 📢 **Community Promotion** | Technology evangelists | Technical sharing → Blog promotion → Participate in activities |
 
-### 🔄 开发流程
+### 🔄 Development Process
 
-1. **规划阶段** - 在GitHub Discussions中讨论新功能
-2. **开发阶段** - Fork代码库，创建feature分支
-3. **测试阶段** - 编写单元测试，确保代码质量
-4. **审查阶段** - 提交PR，团队成员code review
-5. **发布阶段** - 合并代码，更新文档，发布版本
+1. **Planning Phase** - Discuss new features in GitHub Discussions
+2. **Development Phase** - Fork the repository, create a feature branch
+3. **Testing Phase** - Write unit tests to ensure code quality
+4. **Review Phase** - Submit PR, team members conduct code review
+5. **Release Phase** - Merge code, update documentation, release version
 
-## 📊 项目统计
+## 📊 Project Statistics
 
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AIDotNet&show_icons=true&theme=vue&count_private=true)
 
-**组织统计**
-- 🌟 总Star数: 2000+
-- 🍴 总Fork数: 500+
-- 👥 活跃贡献者: 50+
-- 📦 项目数量: 15+
+**Organization Statistics**
+- 🌟 Total Stars: 2000+
+- 🍴 Total Forks: 500+
+- 👥 Active Contributors: 50+
+- 📦 Number of Projects: 15+
 
 </div>
 
-## 🔗 联系我们
+## 🔗 Contact Us
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_官方网站-token--ai.cn-blue?style=for-the-badge)](https://token-ai.cn)
-[![Documentation](https://img.shields.io/badge/📚_技术文档-docs.token--ai.cn-green?style=for-the-badge)](https://docs.token-ai.cn)
-[![AntSK Demo](https://img.shields.io/badge/🚀_AntSK_演示-antsk.ai--dotnet.com-orange?style=for-the-badge)](https://antsk.ai-dotnet.com)
-[![GitHub](https://img.shields.io/badge/💬_GitHub_讨论-AIDotNet-black?style=for-the-badge)](https://github.com/orgs/AIDotNet/discussions)
+[![Website](https://img.shields.io/badge/🌐_Official_Site-token--ai.cn-blue?style=for-the-badge)](https://token-ai.cn)
+[![Documentation](https://img.shields.io/badge/📚_Tech_Docs-docs.token--ai.cn-green?style=for-the-badge)](https://docs.token-ai.cn)
+[![AntSK Demo](https://img.shields.io/badge/🚀_AntSK_Demo-antsk.ai--dotnet.com-orange?style=for-the-badge)](https://antsk.ai-dotnet.com)
+[![GitHub](https://img.shields.io/badge/💬_GitHub_Discussions-AIDotNet-black?style=for-the-badge)](https://github.com/orgs/AIDotNet/discussions)
 
 </div>
 
-### 🌍 社区资源
+### 🌍 Community Resources
 
-- 🎥 [视频教程](https://space.bilibili.com/242357983) - B站技术分享视频
-- 💬 [GitHub讨论](https://github.com/orgs/AIDotNet/discussions) - 技术问题交流
-- 📧 [邮箱联系](mailto:239573049@qq.com) - 商务合作与技术支持
+- 🎥 [Video Tutorials](https://space.bilibili.com/242357983) - Technical sharing videos on Bilibili
+- 💬 [GitHub Discussions](https://github.com/orgs/AIDotNet/discussions) - Technical question exchange
+- 📧 [Email Contact](mailto:239573049@qq.com) - Business cooperation and technical support
 
-### 📱 社交媒体
+### 📱 Social Media
 
-- 🐧 **微信群** - 添加微信 `xuzeyu91` 并发送"进群"
-- 📱 **QQ交流群** - 即时技术交流
-- 🎯 **技术博客** - 定期发布技术文章和最佳实践
+- 🐧 **WeChat Group** - Add WeChat `xuzeyu91` and send "Join Group"
+- 📱 **QQ Group Chat** - Instant technical exchange
+- 🎯 **Technical Blog** - Regularly publish technical articles and best practices
 
 ---
 
 <div align="center">
 
-**🎉 感谢每一位贡献者的付出！**
+**🎉 Thanks to every contributor for your efforts!**
 
 [![Contributors](https://contrib.rocks/image?repo=AIDotNet/AntSK)](https://github.com/AIDotNet/AntSK/graphs/contributors)
 
-<sub>一起构建AI与.NET的美好未来 🚀</sub>
+<sub>Building a bright future for AI and .NET together 🚀</sub>
 
 **Made with ❤️ by AIDotNet Community**
 
