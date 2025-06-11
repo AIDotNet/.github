@@ -1,81 +1,183 @@
-# AIDotNet 开源社区：连接智能与未来
+# 🚀 AIDotNet - 连接智能与未来
 
-## 我们的愿景
+<div align="center">
 
-AIDotNet 汇聚了一群热爱 AI 和 .NET 技术的开发者，致力于共同打造智能、高效且易用的 AI 智能体。我们的项目秉承开放精神，大多采用 Apache License 2.0 许可，让您可以自由使用、修改甚至商用。我们相信，开源的力量能够加速 AI 技术的演进与普及，欢迎每一位志同道合的伙伴加入我们的创新征程！
+[![GitHub Organization](https://img.shields.io/badge/GitHub-AIDotNet-blue?logo=github)](https://github.com/AIDotNet)
+[![Followers](https://img.shields.io/github/followers/AIDotNet?style=social)](https://github.com/AIDotNet)
+[![Stars](https://img.shields.io/github/stars/AIDotNet?style=social)](https://github.com/AIDotNet)
+[![Website](https://img.shields.io/badge/Website-token--ai.cn-green)](https://token-ai.cn)
+
+**汇聚AI与.NET技术的开源创新力量**
+
+*构建智能、高效且易用的AI解决方案*
+
+[🌟 核心项目](#-核心项目) • [👥 团队成员](#-核心团队) • [🤝 加入我们](#-加入我们) • [📞 联系方式](#-联系我们)
+
+</div>
+
+---
+
+## 💡 我们的使命
+
+AIDotNet 是由一群热爱AI和.NET技术的开发者组成的开源社区。我们致力于：
+
+- 🎯 **推动AI技术普及化** - 让AI技术更容易被开发者采用和集成
+- 🔧 **构建实用工具链** - 开发高质量、易用的AI开发工具和框架
+- 🌐 **促进开源协作** - 大部分项目采用 Apache License 2.0，支持自由使用和商业化
+- 📚 **知识分享传播** - 通过文档、教程和社区交流推广最佳实践
 
 ## 🌟 核心项目
 
-| 项目名称 | 技术栈 | 特点与价值 |
-|---------|--------|------------|
-| [**AntSK**](https://github.com/AIDotNet/AntSK) | .Net 8 + AntBlazor + Semantic Kernel + Kernel Memory | 全功能 AI 知识库/智能体系统，支持本地离线运行多种 AI 大模型，集成 Aspire 可观测性平台 |
-| [**FastWiki**](https://github.com/AIDotNet/fast-wiki) | .NET 8 + React + LobeUI | 现代化企业级智能客服知识库系统，用户体验优先的设计理念 |
-| [**Thor (雷神托尔)**](https://github.com/AIDotNet/Thor) | .NET | 统一 AI 模型接口中间件，兼容 OpenAI 接口格式，支持多模型转换，内置用户权限管理系统 |
-| [**GraphRag.Net**](https://github.com/AIDotNet/GraphRag.Net) | Semantic Kernel | 参考 GraphRAG 架构的检索增强生成实现，提供开箱即用的 NuGet 包 |
-| [**ThorChat**](https://github.com/AIDotNet/ThorChat) | .NET 8 + 静态前端 | 移植自 LobeChat，优化为纯静态前端项目，后台采用 .NET 8 提供高性能 API 支持 |
-| [**AutoGpt**](https://github.com/AIDotNet/AutoGpt) | .NET | 智能推理 SDK，通过多轮对话推理增强 AI 能力，提供更理想、更智能的交互体验 |
+> 💫 **明星项目** - 获得社区广泛认可的核心产品
 
-## 👥 核心成员
+### 🏆 重点推荐
 
-<div style="display: flex; flex-wrap: wrap;">
+| 项目 | Stars | 技术栈 | 特色功能 |
+|------|-------|--------|----------|
+Aspire可观测性<br/>🧠 全功能AI知识库/智能体 |
+| [**OpenDeepWiki**](https://github.com/AIDotNet/OpenDeepWiki) | ![Stars](https://img.shields.io/github/stars/AIDotNet/OpenDeepWiki) | C# + TypeScript | 📚 企业级知识管理平台<br/>🔧 模块化设计，易扩展<br/>🎨 现代化UI界面 |
+| [**AntSK**](https://github.com/AIDotNet/AntSK) | ![Stars](https://img.shields.io/github/stars/AIDotNet/AntSK) | .NET 9 + AntBlazor + Semantic Kernel | 🔥 本地离线AI大模型支持<br/>📊 集成
+| [**koala-ai**](https://github.com/AIDotNet/koala-ai) | ![Stars](https://img.shields.io/github/stars/AIDotNet/koala-ai) | .NET 8 + React | 🤖 企业级智能客服<br/>💬 知识库问答系统<br/>⚡ 高性能响应 |
 
-<div style="margin: 10px; text-align: center;">
-<img height="100px" width="100px" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61819790?v=4" />
-<p><strong>Token</strong> <a href="https://github.com/239573049">@239573049</a></p>
-<p>Microsoft MVP，技术探索者，专注于更好的技术实现</p>
-</div>
+### 🛠️ 专业工具
 
-<div style="margin: 10px; text-align: center;">
-<img height="100px" width="100px" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/26290929?v=4" />
-<p><strong>xuzeyu91</strong> <a href="https://github.com/xuzeyu91">@xuzeyu91</a></p>
-<p>Microsoft AI Platform MVP，华为云开发者专家，精通 .NET 微服务架构、Dapr、K8s、Docker、AIGC 等技术</p>
-</div>
+| 项目 | Stars | 描述 |
+|------|-------|------|
+| [**auto-prompt**](https://github.com/AIDotNet/auto-prompt) | ![Stars](https://img.shields.io/github/stars/AIDotNet/auto-prompt) | 🎯 AI提示词优化平台，提升AI交互效果 |
+| [**Thor**](https://github.com/AIDotNet/Thor) | ![Stars](https://img.shields.io/github/stars/AIDotNet/Thor) | 🔌 统一AI模型接口中间件，兼容OpenAI格式 |
+| [**AutoGpt**](https://github.com/AIDotNet/AutoGpt) | ![Stars](https://img.shields.io/github/stars/AIDotNet/AutoGpt) | 🧠 智能推理SDK，多轮对话增强AI能力 |
 
-<div style="margin: 10px; text-align: center;">
-<img height="100px" width="100px" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/8108685?v=4" />
-<p><strong>longdream</strong> <a href="https://github.com/longdream">@longdream</a></p>
-<p>技术梦想家</p>
-</div>
+### 📦 开发组件
 
-<div style="margin: 10px; text-align: center;">
-<img height="100px" width="100px" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/2189761?v=4" />
-<p><strong>whuanle</strong> <a href="https://github.com/whuanle">@whuanle</a></p>
-<p>多才多艺的技术博主，专注于微服务架构、Kubernetes、Istio、DevOps，正在探索机器学习。精通 C#、Go、Python，热爱阅读、写作、摄影与自然</p>
-</div>
+- **GraphRag.Net** - 基于Semantic Kernel的检索增强生成实现
+- **ThorChat** - 基于LobeChat的静态前端聊天应用
+- **SemanticKernel.Samples** - Semantic Kernel最佳实践示例
 
-<div style="margin: 10px; text-align: center;">
-<img height="100px" width="100px" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/31230864?v=4" />
-<p><strong>MrChuJiu</strong> <a href="https://github.com/MrChuJiu">@MrChuJiu</a></p>
-<p>Microsoft MVP，.NET 与 Angular 开发专家</p>
-</div>
+## 👥 核心团队
 
-<div style="margin: 10px; text-align: center;">
-<img height="100px" width="100px" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/28941816?v=4" />
-<p><strong>张安忠 (anjoy8)</strong> <a href="https://github.com/anjoy8">@anjoy8</a></p>
-<p>十年软件开发经验，国内 .NET 技术布道者，连续五年微软 MVP，《ASP.NET Core 5.0 开发入门与实战》联合作者，BCVP 开发者社区发起人</p>
-</div>
+<table>
+  <tr>
+  <td align="center" width="150">
+  <a href="https://github.com/239573049">
+  <img src="https://avatars.githubusercontent.com/u/61819790?v=4" width="80" style="border-radius:50%"/>
+  <br/><b>Token</b>
+  </a>
+  <br/><sub>Microsoft MVP</sub>
+  <br/><sub>技术探索者</sub>
+  </td>
+  <td align="center" width="150">
+  <a href="https://github.com/xuzeyu91">
+  <img src="https://avatars.githubusercontent.com/u/26290929?v=4" width="80" style="border-radius:50%"/>
+  <br/><b>xuzeyu91</b>
+  </a>
+  <br/><sub>Microsoft AI Platform MVP</sub>
+  <br/><sub>华为云开发者专家</sub>
+  </td>
+  <td align="center" width="150">
+  <a href="https://github.com/whuanle">
+  <img src="https://avatars.githubusercontent.com/u/2189761?v=4" width="80" style="border-radius:50%"/>
+  <br/><b>whuanle</b>
+  </a>
+  <br/><sub>技术博主</sub>
+  <br/><sub>微服务架构专家</sub>
+  </td>
+  <td align="center" width="150">
+  <a href="https://github.com/anjoy8">
+  <img src="https://avatars.githubusercontent.com/u/28941816?v=4" width="80" style="border-radius:50%"/>
+  <br/><b>张安忠</b>
+  </a>
+  <br/><sub>连续五年 Microsoft MVP</sub>
+  <br/><sub>.NET 技术布道者</sub>
+  </td>
+  </tr>
+</table>
 
-<div style="margin: 10px; text-align: center;">
-<img height="100px" width="100px" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/49057777?v=4" />
-<p><strong>snake-L</strong> <a href="https://github.com/snake-L">@snake-L</a></p>
-<p>技术贡献者</p>
-</div>
+<details>
+<summary>查看更多团队成员 👥</summary>
 
-</div>
+| 成员 | 专业领域 | 贡献亮点 |
+|------|----------|----------|
+| [**MrChuJiu**](https://github.com/MrChuJiu) | .NET + Angular | Microsoft MVP，全栈开发专家 |
+| [**longdream**](https://github.com/longdream) | 技术架构 | 技术梦想家，创新推动者 |
+| [**snake-L**](https://github.com/snake-L) | 开源贡献 | 活跃的技术贡献者 |
+
+</details>
 
 ## 🚀 加入我们
 
-我们正处于 AI 与 .NET 技术融合的最佳时代！无论您是经验丰富的开发者，还是对技术充满热情的新人，AIDotNet 社区都欢迎您的加入：
+<div align="center">
 
-- **贡献代码**：帮助改进现有项目或提出新的创意
-- **测试与反馈**：使用我们的项目并提供宝贵意见
-- **文档完善**：协助编写或翻译技术文档
-- **社区推广**：帮助更多人了解 AIDotNet 的价值
+### 🌈 多种参与方式，总有一款适合你
+
+</div>
+
+```mermaid
+graph LR
+    A[开发者] --> B[代码贡献]
+    A --> C[测试反馈]
+    A --> D[文档完善]
+    A --> E[社区推广]
+    
+    B --> F[提交PR]
+    B --> G[修复Bug]
+    B --> H[新功能开发]
+    
+    C --> I[使用项目]
+    C --> J[提交Issue]
+    C --> K[性能测试]
+    
+    D --> L[编写教程]
+    D --> M[翻译文档]
+    D --> N[API文档]
+    
+    E --> O[技术分享]
+    E --> P[博客推广]
+    E --> Q[社区活动]
+```
+
+### 🎯 贡献指南
+
+| 贡献类型 | 适合人群 | 如何开始 |
+|----------|----------|----------|
+| 🔧 **代码贡献** | 有一定开发经验 | Fork项目 → 开发功能 → 提交PR |
+| 🧪 **测试反馈** | 产品使用者 | 使用项目 → 发现问题 → 提交Issue |
+| 📝 **文档完善** | 技术写作爱好者 | 改进文档 → 编写教程 → 提交PR |
+| 📢 **社区推广** | 技术布道者 | 技术分享 → 博客推广 → 参与活动 |
+
+## 📊 项目统计
+
+<div align="center">
+
+![AIDotNet Stats](https://github-readme-stats.vercel.app/api?username=AIDotNet&show_icons=true&theme=vue&count_private=true)
+
+</div>
 
 ## 🔗 联系我们
 
-- GitHub 组织：[AIDotNet](https://github.com/AIDotNet)
-- TokenAI：[TokenAI](https://token-ai.cn)
-- 交流讨论：通过 GitHub Issues 或 Discussions 参与技术讨论
+<div align="center">
 
-**共同构建 AI 与 .NET 的美好未来！**
+[![Website](https://img.shields.io/badge/🌐_官方网站-token--ai.cn-blue?style=for-the-badge)](https://token-ai.cn)
+[![AntSK](https://img.shields.io/badge/🚀_AntSK_Demo-antsk.cn-green?style=for-the-badge)](https://antsk.cn)
+[![Email](https://img.shields.io/badge/📧_邮箱联系-hejiale010426@gmail.com-red?style=for-the-badge)](mailto:hejiale010426@gmail.com)
+[![GitHub](https://img.shields.io/badge/💬_GitHub_讨论-AIDotNet-black?style=for-the-badge)](https://github.com/orgs/AIDotNet/discussions)
+
+</div>
+
+### 🌍 社区资源
+
+- 📚 [技术文档](https://docs.token-ai.cn) - 详细的使用指南和API文档
+- 🎥 [视频教程](https://space.bilibili.com/xxx) - B站技术分享视频
+- 💬 [QQ交流群](https://qm.qq.com/xxx) - 即时技术交流
+- 🐧 [微信群](https://weixin.qq.com/xxx) - 扫码加入开发者群
+
+---
+
+<div align="center">
+
+**🎉 感谢每一位贡献者的付出！**
+
+[![Contributors](https://contrib.rocks/image?repo=AIDotNet/AntSK)](https://github.com/AIDotNet/AntSK/graphs/contributors)
+
+<sub>一起构建AI与.NET的美好未来 🚀</sub>
+
+</div>
