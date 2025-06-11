@@ -3,9 +3,9 @@
 <div align="center">
 
 [![GitHub Organization](https://img.shields.io/badge/GitHub-AIDotNet-blue?logo=github)](https://github.com/AIDotNet)
-[![Followers](https://img.shields.io/github/followers/AIDotNet?style=social)](https://github.com/AIDotNet)
-[![Stars](https://img.shields.io/github/stars/AIDotNet?style=social)](https://github.com/AIDotNet)
 [![Website](https://img.shields.io/badge/Website-token--ai.cn-green)](https://token-ai.cn)
+[![Documentation](https://img.shields.io/badge/Docs-docs.token--ai.cn-blue)](https://docs.token-ai.cn)
+[![AntSK Demo](https://img.shields.io/badge/Demo-antsk.ai--dotnet.com-orange)](https://antsk.ai-dotnet.com)
 
 **汇聚AI与.NET技术的开源创新力量**
 
@@ -19,11 +19,11 @@
 
 ## 💡 我们的使命
 
-AIDotNet 是由一群热爱AI和.NET技术的开发者组成的开源社区。我们致力于：
+AIDotNet 是一群热爱DotNet的开源爱好者组成，为了让DotNet赋能AI，让AI轻松带入您的产品，我们成立了AIDotNet组织。我们致力于：
 
 - 🎯 **推动AI技术普及化** - 让AI技术更容易被开发者采用和集成
-- 🔧 **构建实用工具链** - 开发高质量、易用的AI开发工具和框架
-- 🌐 **促进开源协作** - 大部分项目采用 Apache License 2.0，支持自由使用和商业化
+- 🔧 **构建实用工具链** - 开发高质量、易用的AI开发工具和框架  
+- 🌐 **促进开源协作** - 大部分项目采用 Apache License 2.0 和 MIT License，支持自由使用和商业化
 - 📚 **知识分享传播** - 通过文档、教程和社区交流推广最佳实践
 
 ## 🌟 核心项目
@@ -34,24 +34,53 @@ AIDotNet 是由一群热爱AI和.NET技术的开发者组成的开源社区。�
 
 | 项目 | Stars | 技术栈 | 特色功能 |
 |------|-------|--------|----------|
-Aspire可观测性<br/>🧠 全功能AI知识库/智能体 |
-| [**OpenDeepWiki**](https://github.com/AIDotNet/OpenDeepWiki) | ![Stars](https://img.shields.io/github/stars/AIDotNet/OpenDeepWiki) | C# + TypeScript | 📚 企业级知识管理平台<br/>🔧 模块化设计，易扩展<br/>🎨 现代化UI界面 |
-| [**AntSK**](https://github.com/AIDotNet/AntSK) | ![Stars](https://img.shields.io/github/stars/AIDotNet/AntSK) | .NET 9 + AntBlazor + Semantic Kernel | 🔥 本地离线AI大模型支持<br/>📊 集成
-| [**koala-ai**](https://github.com/AIDotNet/koala-ai) | ![Stars](https://img.shields.io/github/stars/AIDotNet/koala-ai) | .NET 8 + React | 🤖 企业级智能客服<br/>💬 知识库问答系统<br/>⚡ 高性能响应 |
+| [**OpenDeepWiki**](https://github.com/AIDotNet/OpenDeepWiki) | ![Stars](https://img.shields.io/github/stars/AIDotNet/OpenDeepWiki) | .NET 9 + TypeScript + Semantic Kernel | 📚 开源知识管理平台<br/>🔧 模块化设计，易扩展<br/>🎨 现代化UI界面 |
+| [**AntSK**](https://github.com/AIDotNet/AntSK) | ![Stars](https://img.shields.io/github/stars/AIDotNet/AntSK) | .NET 8 + AntBlazor + Semantic Kernel | 🔥 本地离线AI大模型支持<br/>📊 集成Aspire可观测性<br/>🧠 全功能AI知识库/智能体 |
+| [**Thor**](https://github.com/AIDotNet/Thor) | ![Stars](https://img.shields.io/github/stars/AIDotNet/Thor) | .NET 8 + OpenAI Compatible | 🔌 统一AI模型接口中间件<br/>⚡ 兼容OpenAI格式<br/>🔑 内置用户权限管理 |
+| [**auto-prompt**](https://github.com/AIDotNet/auto-prompt) | ![Stars](https://img.shields.io/github/stars/AIDotNet/auto-prompt) | .NET + React | 🎯 AI提示词优化平台<br/>🧠 智能优化算法<br/>📊 可视化调试工具 |
 
 ### 🛠️ 专业工具
 
-| 项目 | Stars | 描述 |
-|------|-------|------|
-| [**auto-prompt**](https://github.com/AIDotNet/auto-prompt) | ![Stars](https://img.shields.io/github/stars/AIDotNet/auto-prompt) | 🎯 AI提示词优化平台，提升AI交互效果 |
-| [**Thor**](https://github.com/AIDotNet/Thor) | ![Stars](https://img.shields.io/github/stars/AIDotNet/Thor) | 🔌 统一AI模型接口中间件，兼容OpenAI格式 |
-| [**AutoGpt**](https://github.com/AIDotNet/AutoGpt) | ![Stars](https://img.shields.io/github/stars/AIDotNet/AutoGpt) | 🧠 智能推理SDK，多轮对话增强AI能力 |
+| 项目 | 描述 | 技术栈 |
+|------|------|--------|
+| [**koala-ai**](https://github.com/AIDotNet/koala-ai) | 🤖 企业级智能客服系统，支持知识库问答 | .NET 8 + React |
+| [**Text2Sql.Net**](https://github.com/AIDotNet/Text2Sql.Net) | 📝 自然语言转SQL工具 | .NET + Semantic Kernel |
+| [**GraphRag.Net**](https://github.com/AIDotNet/GraphRag.Net) | 🕸️ 基于Semantic Kernel的检索增强生成 | .NET + Semantic Kernel |
 
 ### 📦 开发组件
 
-- **GraphRag.Net** - 基于Semantic Kernel的检索增强生成实现
-- **ThorChat** - 基于LobeChat的静态前端聊天应用
 - **SemanticKernel.Samples** - Semantic Kernel最佳实践示例
+- **NuGet.Next** - 现代化的NuGet包管理平台
+
+## 🏗️ 技术架构
+
+```mermaid
+graph TB
+    subgraph "前端层"
+        A[AntBlazor UI] --> B[React Components]
+        B --> C[TypeScript]
+    end
+    
+    subgraph "应用层"
+        D[AntSK 知识库] --> E[Thor API网关]
+        E --> F[AutoGpt 推理引擎]
+    end
+    
+    subgraph "AI层"
+        G[Semantic Kernel] --> H[本地模型]
+        H --> I[云端模型]
+        G --> J[向量数据库]
+    end
+    
+    subgraph "数据层"
+        K[PostgreSQL] --> L[SQLite]
+        L --> M[文件存储]
+    end
+    
+    A --> D
+    D --> G
+    G --> K
+```
 
 ## 👥 核心团队
 
@@ -103,7 +132,8 @@ Aspire可观测性<br/>🧠 全功能AI知识库/智能体 |
 
 </details>
 
-## 🚀 加入我们
+
+## 🤝 加入我们
 
 <div align="center">
 
@@ -144,11 +174,25 @@ graph LR
 | 📝 **文档完善** | 技术写作爱好者 | 改进文档 → 编写教程 → 提交PR |
 | 📢 **社区推广** | 技术布道者 | 技术分享 → 博客推广 → 参与活动 |
 
+### 🔄 开发流程
+
+1. **规划阶段** - 在GitHub Discussions中讨论新功能
+2. **开发阶段** - Fork代码库，创建feature分支
+3. **测试阶段** - 编写单元测试，确保代码质量
+4. **审查阶段** - 提交PR，团队成员code review
+5. **发布阶段** - 合并代码，更新文档，发布版本
+
 ## 📊 项目统计
 
 <div align="center">
 
-![AIDotNet Stats](https://github-readme-stats.vercel.app/api?username=AIDotNet&show_icons=true&theme=vue&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AIDotNet&show_icons=true&theme=vue&count_private=true)
+
+**组织统计**
+- 🌟 总Star数: 2000+
+- 🍴 总Fork数: 500+
+- 👥 活跃贡献者: 50+
+- 📦 项目数量: 15+
 
 </div>
 
@@ -157,18 +201,23 @@ graph LR
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_官方网站-token--ai.cn-blue?style=for-the-badge)](https://token-ai.cn)
-[![AntSK](https://img.shields.io/badge/🚀_AntSK_Demo-antsk.cn-green?style=for-the-badge)](https://antsk.cn)
-[![Email](https://img.shields.io/badge/📧_邮箱联系-hejiale010426@gmail.com-red?style=for-the-badge)](mailto:hejiale010426@gmail.com)
+[![Documentation](https://img.shields.io/badge/📚_技术文档-docs.token--ai.cn-green?style=for-the-badge)](https://docs.token-ai.cn)
+[![AntSK Demo](https://img.shields.io/badge/🚀_AntSK_演示-antsk.ai--dotnet.com-orange?style=for-the-badge)](https://antsk.ai-dotnet.com)
 [![GitHub](https://img.shields.io/badge/💬_GitHub_讨论-AIDotNet-black?style=for-the-badge)](https://github.com/orgs/AIDotNet/discussions)
 
 </div>
 
 ### 🌍 社区资源
 
-- 📚 [技术文档](https://docs.token-ai.cn) - 详细的使用指南和API文档
-- 🎥 [视频教程](https://space.bilibili.com/xxx) - B站技术分享视频
-- 💬 [QQ交流群](https://qm.qq.com/xxx) - 即时技术交流
-- 🐧 [微信群](https://weixin.qq.com/xxx) - 扫码加入开发者群
+- 🎥 [视频教程](https://space.bilibili.com/242357983) - B站技术分享视频
+- 💬 [GitHub讨论](https://github.com/orgs/AIDotNet/discussions) - 技术问题交流
+- 📧 [邮箱联系](mailto:239573049@qq.com) - 商务合作与技术支持
+
+### 📱 社交媒体
+
+- 🐧 **微信群** - 添加微信 `xuzeyu91` 并发送"进群"
+- 📱 **QQ交流群** - 即时技术交流
+- 🎯 **技术博客** - 定期发布技术文章和最佳实践
 
 ---
 
@@ -179,5 +228,7 @@ graph LR
 [![Contributors](https://contrib.rocks/image?repo=AIDotNet/AntSK)](https://github.com/AIDotNet/AntSK/graphs/contributors)
 
 <sub>一起构建AI与.NET的美好未来 🚀</sub>
+
+**Made with ❤️ by AIDotNet Community**
 
 </div>
